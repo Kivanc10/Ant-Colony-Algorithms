@@ -33,6 +33,9 @@ known to cause increased time
 <b>
  Cost is distances of arrive cities to other cities.And end of the algorithms you will have a lot of costs.Then you will determine the smallest cost inside of others .And you will develop and refactoring others to try to emulation accoridng to has best cost. 
  </b>
+ 
+ ![6532](https://user-images.githubusercontent.com/51750773/91050613-93712400-e627-11ea-8b19-fae84746b57b.png)
+
  <br>
   <br>
    <br>
