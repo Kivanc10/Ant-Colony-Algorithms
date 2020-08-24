@@ -26,4 +26,4 @@
  ![antsUpdate](https://user-images.githubusercontent.com/51750773/91034877-606e6680-e60e-11ea-98cf-7d47a24593e7.jpg)
 
 
- ### Based on the above, it is clear that significant development and analysis work is required before ACO could be applied to the nonlinear topology optimization problems of concern
+ ### Based on the above, it is clear that significant development and analysis work is required before ACO could be applied to the nonlinear topology optimization problems of concern.
